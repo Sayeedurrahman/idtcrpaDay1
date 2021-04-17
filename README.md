@@ -12,3 +12,4 @@ Day 1 (Challenge)
 5. **Google Form Link:** https://forms.gle/CDY7WRKe7isKMLuC8
 6. After completion of data entry write **"Completed"** status in input Excel Status Column.
 7. Then finally print the total execution time and no of completed transactions in output panel.
+ Completed 
